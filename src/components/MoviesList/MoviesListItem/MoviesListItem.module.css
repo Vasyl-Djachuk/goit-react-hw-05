@@ -1,0 +1,10 @@
+.title {
+  text-align: center;
+}
+.container {
+  transition: transform 250ms linear;
+  cursor: pointer;
+}
+.container:hover {
+  transform: scale(1.03);
+}

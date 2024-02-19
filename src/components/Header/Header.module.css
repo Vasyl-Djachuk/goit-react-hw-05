@@ -8,8 +8,23 @@
   display: flex;
   column-gap: 20px;
   align-items: center;
+  color: #6aabe4;
+}
+.link {
+  padding: 5px 10px;
+  border-radius: 6px;
+  background-color: transparent;
+  color: rgb(88, 87, 87);
+  transition: background-color 250ms linear;
 }
 .active {
   color: white;
-  background-color: orangered;
+  background-color: #becfdf;
+}
+
+.link:hover {
+  background-color: #dce7f0;
+}
+.active:hover {
+  background-color: #becfdf;
 }

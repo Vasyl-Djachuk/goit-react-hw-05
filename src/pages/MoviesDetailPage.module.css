@@ -1,0 +1,11 @@
+.add {
+  padding: 20px 40px;
+  border-bottom: 1px solid #696969;
+  border-top: 1px solid #696969;
+}
+.list {
+  padding: 10px;
+}
+.item {
+  margin-bottom: 15px;
+}

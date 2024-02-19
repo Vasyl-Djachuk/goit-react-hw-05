@@ -1,0 +1,24 @@
+.item {
+  width: 220px;
+}
+.list {
+  padding: 20px;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+.actor {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.character {
+  padding-left: 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+.img {
+  height: 320px;
+  margin-bottom: 10px;
+}
